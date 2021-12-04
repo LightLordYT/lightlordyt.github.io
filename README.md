@@ -6,5 +6,5 @@ My Github Pages stuff
 # Includes
 - UserForge(Coming Soon)
 - ZrButWorse
-- Tampermonkey Scripts
+- Tampermonkey Scripts/Mods
 - Websites
